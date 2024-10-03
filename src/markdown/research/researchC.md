@@ -1,7 +1,6 @@
 ---
-title: climate data literacy
+title: sensors and systems
 image:
 order: 3
 ---
-I :nerd: out about the next generation of digitally native documentation to make science more accessible, reproducible, and interactive.
-New and engaging mediums have the potential to recharacterize research as play, where interactive elements can reinforce learning outcomes, illustrate the limitations of a complex model, or explore the ins and outs of a 4D (or more!) dataset.
+Sensors onboard underwater platforms provide ample opportunity for real-time filtering, classifying, and compression. I work with standard oceanographic sensors as well as acoustic packages like modems, hydrophone arrays, and vector sensors, in pursuit of better communication and adaptive behavior underway.

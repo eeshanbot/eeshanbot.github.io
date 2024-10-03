@@ -3,7 +3,11 @@ title: peer reviewed
 order: 1
 ---
 
-<div style="position:relative; bottom:2.7em; text-align: right"> <sub> :mag: = in review, :hourglass_flowing_sand: = accepted / in press </sub> </div>
+Paine, T. and Bhatt, E.
+**Geometric stochastic ray propagation using the special Euclidean group.**
+_Journal of Acoustical Society of America Express Letters_ 4(4).
+2024.
+[10.1121/10.0025522](https://doi.org/10.1121/10.0025522)
 
 Bhatt, E., Baggeroer, A.B., Weller, R.A.
 **Overflow waters in the western Irminger Sea modify deep sound speed structure and convergence zone propagation.**
